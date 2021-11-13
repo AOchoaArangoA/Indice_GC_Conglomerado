@@ -35,8 +35,8 @@ st.title('Índice de Gobierno Corporativo de la Gobernación de Antioquia')
 st.markdown("""
 Esta aplicación posee la información y la metodología correspondiente a la formulación y construcción del índice de Gobierno Corporativo para las 24 entidades que comprender el Conglomerado.
 
- **Descripción: ** Esta aplicación trata de implementar metodologías cualitativas y cuantitativas para la evaluación y seguimiento de las buenas prácticas de Gobierno Corporativo. La metodología cualitativa trata de obtener información relevante de expertos en el tema, y que el mismo tiempo saben que aspectos son más relevantes para los objetivos de la Gobernación.
-Por otro lado, la metodología cualitativa, utiliza herramientas de "DEA" para la creación de índices compuestos. Para implementar la metodología 'BOD' se utiliza el lenguaje de Programación R y el Código implementado es el siguiente.
+ **Descripción: ** Esta aplicación trata de implementar metodologías cualitativas para la evaluación y seguimiento de las buenas prácticas de Gobierno Corporativo. La metodología cualitativa trata de obtener información relevante de expertos en el tema, y que el mismo tiempo saben que aspectos son más relevantes para los objetivos de la Gobernación.
+Por otro lado, la metodología cuantitativa utiliza herramientas de "DEA" para la creación de índices compuestos. Para implementar la metodología 'BOD' se utiliza el lenguaje de Programación R y el Código implementado es el siguiente.
 
             """)
             
